@@ -1,4 +1,4 @@
-nome = input("nome social")
-print = ("boa noite")
-print("Seja Bem Vindo " + nome)
-print = ("Obrigado por visitar nosso site, " + nome)
+nome = input("social name")
+print = ("Good Night")
+print("Welcome  " + nome)
+print = ("Thank you for use our site, " + nome)
